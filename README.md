@@ -12,5 +12,5 @@ Pokédex created with HTML, CSS and JavaScript. The idea of the project is to pu
 
 <h3 align="left"> <strong>Git Pages</strong> </h3>
 <p align="left">
-Link: 
+Link: https://josluc.github.io/Pokedex/
 </p>
